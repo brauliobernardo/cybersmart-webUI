@@ -1,0 +1,36 @@
+.margin-0-auto {
+  margin: 0 auto;
+}
+.bg-main {
+  background-color: #28ACE2;
+}
+#homeCarousel {
+  padding-top:4rem;
+  background: rgb(40,172,226); /* hex:  #28ACE2 */ /* Old browsers */
+  background: -moz-linear-gradient(top,  rgba(40,172,226,1) 0%, rgba(113,206,239,1) 50%, rgba(33,180,226,1) 51%, rgba(40,172,226,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top,  rgba(40,172,226,1) 0%,rgba(113,206,239,1) 50%,rgba(33,180,226,1) 51%,rgba(40,172,226,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom,  rgba(40,172,226,1) 0%,rgba(113,206,239,1) 50%,rgba(33,180,226,1) 51%,rgba(40,172,226,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+.carousel-caption {
+    text-shadow: 4px 4px 4px #000;
+}
+.carousel-item img {
+  margin:1rem auto;
+}
+.hero-container {
+  background-color: #000;
+  padding: 15rem 2rem;
+}
+.medium-icon {
+  font-size: 5rem;
+  margin: 1rem;
+}
+.footer-links  {
+  margin: auto;
+}
+.footer-links nav {
+  margin: 1rem auto;
+}
+.footer-links nav img {
+  margin: 0.5rem auto;
+}
